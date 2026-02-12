@@ -1,10 +1,9 @@
 ---
 name: talent-development-mentorship
-description: Identify and nurture potential in others, providing the conditions for
-  their growth and excellence.
+description: Identify and nurture potential in others, providing the conditions for their growth and excellence.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - talent-development-mentorship
