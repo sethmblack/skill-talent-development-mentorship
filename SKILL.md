@@ -4,7 +4,7 @@ description: Identify and nurture potential in others, providing the conditions 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5133
+  version: 1.0.5134
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - talent-development-mentorship
